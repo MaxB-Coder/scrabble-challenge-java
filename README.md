@@ -31,8 +31,6 @@ And to total:
 = 14
 ```
 
-## Screenshots
-
 ## To Run the Program
 
 1. Create a new instance of the scrabble class with the word that you want to score.
