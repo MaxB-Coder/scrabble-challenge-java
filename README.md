@@ -1,4 +1,4 @@
-![Scrabble](./Documentation/%F0%9F%92%AFSCRABBLE%F0%9F%92%AF.png)
+![Scrabble](./Documentation/scrabble.png)
 
 ## A simple Scrabble class in Java that scores a single word with: double or triple letters and double or triple word score if specified.
 
