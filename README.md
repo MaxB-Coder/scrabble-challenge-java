@@ -31,7 +31,7 @@ And to total:
 = 14
 ```
 
-## To Run the Program
+## To run the program
 
 1. Create a new instance of the scrabble class with the word that you want to score.
 2. User the .score() method on that instance to get the score for the word.
